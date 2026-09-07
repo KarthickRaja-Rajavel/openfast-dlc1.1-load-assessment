@@ -89,8 +89,15 @@ openfast-dlc1.1-load-assessment/
 ├── notebooks/
 │   └── DLC1_1_analysis.ipynb
 │
-├── samples/
-│   └── WS11_Seed01.outb
+output_sample/
+├── 5MW_Land_DLL_WTurb_WS11_Seed03.fst
+├── 5MW_Land_DLL_WTurb_WS11_Seed03.sum
+├── 5MW_Land_DLL_WTurb_WS11_Seed03.AD.sum
+├── 5MW_Land_DLL_WTurb_WS11_Seed03.ED.sum
+├── 5MW_Land_DLL_WTurb_WS11_Seed03.SrvD.sum
+├── 5MW_Land_DLL_WTurb_WS11_Seed03.UA.sum
+├── 5MW_Land_DLL_WTurb_WS11_Seed03.ech
+└── OpenFAST_all_cases.log
 │
 └── .gitignore
 ```
