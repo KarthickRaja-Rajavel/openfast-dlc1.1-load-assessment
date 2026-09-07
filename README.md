@@ -91,5 +91,18 @@ openfast-dlc1.1-load-assessment/
 │
 ├── samples/
 │   └── WS11_Seed01.outb
+
+## Tools
+
+- **OpenFAST** — Aeroelastic simulation
+- **TurbSim** — Turbulent wind-field generation
+- **Python** — Automation and post-processing
+- **OpenFAST Toolbox** — OpenFAST output-file reading using `FASTOutputFile`
+- **Pandas & Matplotlib** — Data analysis and visualization
+
+## Scope
+
+This project demonstrates an automated **DLC 1.1 wind-turbine load-analysis workflow** using TurbSim, OpenFAST, and Python. It is an independent engineering/research project intended for educational and engineering demonstration purposes.
+
 │
 └── .gitignore
