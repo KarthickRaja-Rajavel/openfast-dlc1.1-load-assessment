@@ -72,7 +72,6 @@ A simplified statistical treatment is used:
 
 ## Repository Structure
 
-```text
 openfast-dlc1.1-load-assessment/
 │
 ├── README.md
@@ -105,4 +104,3 @@ openfast-dlc1.1-load-assessment/
 ## Scope
 
 This project demonstrates an automated **DLC 1.1 wind-turbine load-analysis workflow** using TurbSim, OpenFAST, and Python. It is an independent engineering/research project intended for **educational and engineering demonstration purposes**.
-
