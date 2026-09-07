@@ -90,7 +90,7 @@ openfast-dlc1.1-load-assessment/
 │   └── DLC1_1_analysis.ipynb
 │
 ├── samples/
-│   └── WS11_Seed01.outb
+   └── WS11_Seed01.outb
 
 ## Tools
 
