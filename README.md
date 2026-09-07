@@ -72,19 +72,26 @@ A simplified statistical treatment is used:
 
 ## Repository Structure
 
+```text
 openfast-dlc1.1-load-assessment/
+│
 ├── README.md
+│
 ├── scripts/
 │   ├── generate_turbsim_cases.py
 │   ├── run_openfast_cases.py
 │   └── helpers.py
+│
 ├── templates/
 │   ├── OpenFAST/
 │   └── TurbSim/
+│
 ├── notebooks/
 │   └── DLC1_1_analysis.ipynb
+│
 ├── samples/
 │   └── WS11_Seed01.outb
+│
 └── .gitignore
 
 ## Tools
