@@ -90,7 +90,9 @@ openfast-dlc1.1-load-assessment/
 │   └── DLC1_1_analysis.ipynb
 │
 ├── samples/
-   └── WS11_Seed01.outb
+|   └── WS11_Seed01.outb
+│
+└── .gitignore
 
 ## Tools
 
@@ -103,6 +105,3 @@ openfast-dlc1.1-load-assessment/
 ## Scope
 
 This project demonstrates an automated **DLC 1.1 wind-turbine load-analysis workflow** using TurbSim, OpenFAST, and Python. It is an independent engineering/research project intended for educational and engineering demonstration purposes.
-
-│
-└── .gitignore
